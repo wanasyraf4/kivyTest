@@ -1,5 +1,8 @@
 # kivyTest
 
+![image](https://github.com/wanasyraf4/kivyTest/assets/107595740/0323ba8a-fcea-4391-a15b-8f3fb73e1ca2)
+Python framework for developing cross-platform GUI apps with ease.
+
 ## Description of Components <br>
 backend/: This directory contains all the backend logic of your application. It can include data processing, database interactions, network requests, etc. <br>
 
