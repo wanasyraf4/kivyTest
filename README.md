@@ -1,6 +1,6 @@
 # kivyTest
 
-![image](https://github.com/wanasyraf4/kivyTest/assets/107595740/af3eb1df-17e5-4e19-9124-3879db6497a6)
+<img src="https://github.com/wanasyraf4/kivyTest/assets/107595740/af3eb1df-17e5-4e19-9124-3879db6497a6" width="50" height="50">
 Python framework for developing cross-platform GUI apps with ease.
 
 ## Description of Components <br>
